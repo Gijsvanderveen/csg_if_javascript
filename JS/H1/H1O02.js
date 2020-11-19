@@ -10,3 +10,9 @@ function draw() {
   fill('darkred');
   triangle(225,0,0,450,450,450);
 }
+
+function draw() {
+  noStroke();
+  fill('darkred');
+  triangle(225,0,0,450,450,450);
+}
